@@ -114,6 +114,8 @@ ul li {
   font-weight: 700;
   font-family: "Prompt", sans-serif;
   color: #d00807;
+  background-color: rgb(250, 255, 160);
+  padding: 10px;
 }
 
 .section-title h3 .see-all-link {
